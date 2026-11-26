@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    text-align: center;
+}
+header{
+    height: 100px;
+    width: auto;
+    background-color: #ADD8E6;
+
+}
+
+main{
+    background-color: #90EE90 ;
+}
+
+footer{
+    height: 100px;
+    width: auto;
+    background-color: #FFB6C1;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+
+
